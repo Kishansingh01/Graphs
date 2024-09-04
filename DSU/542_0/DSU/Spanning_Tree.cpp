@@ -1,0 +1,1 @@
+//  Spanning tree is a subgraph of a graph having all (n)vertices but (n-1) edges.
